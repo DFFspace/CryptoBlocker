@@ -1,3 +1,7 @@
+*.Arcus
+*.DARKSET
+*.scp
+*.kasper
 *.nyxe
 *.Heda
 *.hawk
