@@ -1,3 +1,9 @@
+*.p2thirstycat
+*.SNEED
+*.IZ2
+*.URKS*
+*.pussylikeashavel@cyberfear.com
+*_R2Cheats
 [ZipLOCK]*
 *.frag
 *.idhy
