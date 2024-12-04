@@ -1,3 +1,11 @@
+*.ViT
+*.wehavesolution*
+*.MOONMAN
+*.Arachna
+*.vx2
+*.kv5
+*.bl3
+*.helpo
 *.p2thirstycat
 *.SNEED
 *.IZ2
