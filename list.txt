@@ -1,3 +1,7 @@
+*.redlocker
+*.allciphered*
+*.imploder
+*.MAGA
 *.ViT
 *.wehavesolution*
 *.MOONMAN
