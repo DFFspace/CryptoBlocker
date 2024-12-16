@@ -1,3 +1,17 @@
+*.luck*
+*.crynox
+*.starcat
+*.gengar
+*.XSHC
+*.OJNH
+*.termite
+*.phalcon
+*.innoken
+*.Arthur
+*.Thomas
+*.ishimitsu
+*.granddragon
+*.revive
 *.redlocker
 *.allciphered*
 *.imploder
