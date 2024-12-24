@@ -1,3 +1,9 @@
+ezz.txt
+*.MRJOKERPALFINGER*
+*.vulcan
+Readme-locklocklock.txt
+*.locklock*
+*.novalock
 *.luck*
 *.crynox
 *.starcat
