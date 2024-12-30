@@ -1,3 +1,7 @@
+*.GURAM
+*.BUHTI
+*.tib
+*.held
 ezz.txt
 *.MRJOKERPALFINGER*
 *.vulcan
