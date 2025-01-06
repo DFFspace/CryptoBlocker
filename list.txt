@@ -1,3 +1,13 @@
+*.YE1337
+YE1337_read_me.txt
+*.Contacto
+*.SIL
+*.redkaw
+*.datastore@cyberfear.com
+*.EncryptedData
+HOW_TO_RECOVER_DATA.html
+*.rdplocker
+*.bbuild
 *.kix
 *.GURAM
 *.BUHTI
