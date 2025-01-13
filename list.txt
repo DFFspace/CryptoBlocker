@@ -1,3 +1,5 @@
+*.aptlock
+*.happynewyear@cyberfear.com
 *.YE1337
 YE1337_read_me.txt
 *.Contacto
