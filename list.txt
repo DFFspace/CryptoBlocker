@@ -1,3 +1,4 @@
+*.nnice
 *.aptlock
 *.happynewyear@cyberfear.com
 *.YE1337
