@@ -1,3 +1,4 @@
+*.hyena*
 *.nnice
 *.aptlock
 *.happynewyear@cyberfear.com
