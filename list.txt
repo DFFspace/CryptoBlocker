@@ -1,3 +1,6 @@
+*.EByteLocker
+*.Clone
+Bpant_Help.txt
 *.hyena*
 *.nnice
 *.aptlock
