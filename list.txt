@@ -1,3 +1,6 @@
+*.purgatory
+Dark101_read_it.txt
+*.innok*
 *.EByteLocker
 *.Clone
 Bpant_Help.txt
