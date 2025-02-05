@@ -1,3 +1,5 @@
+*.lcry*
+*.V
 *.purgatory
 Dark101_read_it.txt
 *.innok*
