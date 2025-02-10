@@ -1,3 +1,11 @@
+*.safepay
+readme_safepay.txt
+*.kwx8
+*.inl3
+*.iw8
+*.spz5
+*.cmblabs
+DECRYPT_INFO.hta
 *.core
 *.lcry*
 *.V
