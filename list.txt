@@ -1,3 +1,7 @@
+*.Xp64
+*.Contac
+Read_it_or_Death.txt
+*.helpo*
 *.safepay
 readme_safepay.txt
 *.kwx8
