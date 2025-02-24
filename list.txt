@@ -1,3 +1,8 @@
+*.lucky*
+*.SCRT
+*.ETHAN
+*.clocker
+*..Remember_you_got_only_36_hours_to_make_the_payment_if_you_dont_pay_prize_will_triple_hunters_Ransomware
 *.Xp64
 *.Contac
 Read_it_or_Death.txt
