@@ -1,3 +1,5 @@
+*.jett
+*.M142HIMARS
 *.QQ*
 *.blackheat*
 *.loches
