@@ -1,3 +1,10 @@
+*.GKICKG
+*.zsszyy
+*.tianrui
+*.endpoint
+*.p*zdec
+*.Louis
+*.hush
 *.jett
 *.M142HIMARS
 *.QQ*
