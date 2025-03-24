@@ -1,3 +1,5 @@
+*.LO0KC1ZHDFI
+*.data3
 *.GKICKG
 *.zsszyy
 *.tianrui
