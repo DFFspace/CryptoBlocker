@@ -1,3 +1,5 @@
+*.vanhelsing
+*.chewbacca
 *.LO0KC1ZHDFI
 *.data3
 *.GKICKG
