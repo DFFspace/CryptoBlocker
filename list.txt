@@ -1,3 +1,9 @@
+*.{*}.restorebackup
+*.zombie
+*.vanlocker
+*.lczx
+*.crypt-*
+*.zasifrovnoXTT2
 *.vanhelsing
 *.chewbacca
 *.LO0KC1ZHDFI
