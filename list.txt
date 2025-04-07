@@ -1,3 +1,5 @@
+*.craxsrat
+help_decrypt_your_files.txt
 *.cv0
 *.goodgir
 *.hero77
