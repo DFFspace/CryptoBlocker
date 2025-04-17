@@ -1,3 +1,10 @@
+*.{*}.hudson
+*.P4R
+*.forgive
+*.jackalock
+*.darkmystic
+*.Jeffery
+*.verdant
 *.craxsrat
 help_decrypt_your_files.txt
 *.cv0
