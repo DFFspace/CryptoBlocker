@@ -1,3 +1,10 @@
+*.PLU
+*.CRFILE*
+*.PowerLocker
+*.warning*
+*.crone
+*.{*}.gnsyihong
+*.qilra
 *.{*}.hudson
 *.P4R
 *.forgive
