@@ -1,3 +1,9 @@
+*.backlock
+*.ITSA
+*.RALEIGHRAD
+*.govcrypt
+*.bbq*
+*.se7en
 *.PLU
 *.CRFILE*
 *.PowerLocker
