@@ -1,3 +1,5 @@
+*.Apex
+*.TXTME
 *.mark
 *.nspire
 *.part2
