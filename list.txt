@@ -1,3 +1,10 @@
+*.SM$LE
+*.asulo
+*.Celestial
+*.zen*
+{*}.redfox
+*.Midnight
+*.datarip
 *.Apex
 *.TXTME
 *.mark
