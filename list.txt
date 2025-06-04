@@ -1,3 +1,6 @@
+*.spark
+*.veluth
+veluth.readme.txt
 *.SM$LE
 *.asulo
 *.Celestial
