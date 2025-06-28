@@ -1,3 +1,6 @@
+*.Rans*
+*.3so
+*.MadiLock
 *.ameriwasted
 *.dataleak1
 {*}.darkhack
