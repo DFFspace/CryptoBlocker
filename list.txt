@@ -1,3 +1,9 @@
+[*].SpiderPery
+[*].Darkness
+*.BlackFL
+BlackField_ReadMe.txt
+*.AIR
+*.ziver
 *.Rans*
 *.3so
 *.MadiLock
