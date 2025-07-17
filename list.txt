@@ -1,3 +1,5 @@
+*.SINOBI
+!!Restore-My-file-Kavva.txt
 [*].SpiderPery
 [*].Darkness
 *.BlackFL
