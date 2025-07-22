@@ -1,3 +1,6 @@
+bashred-reAdmE.txt
+*.nbl
+{*}.adventurer
 *.SINOBI
 !!Restore-My-file-Kavva.txt
 [*].SpiderPery
