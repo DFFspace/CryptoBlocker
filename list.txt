@@ -1,3 +1,7 @@
+*.BQTLOCK
+READ_ME-NOW_2526968.txt
+*.cowa
+*.atomic
 bashred-reAdmE.txt
 *.nbl
 {*}.adventurer
