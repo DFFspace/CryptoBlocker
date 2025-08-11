@@ -1,3 +1,8 @@
+{*}.nobackups
+*.bitrix
+{*}.GAGAKICK
+*.RTRUE
+*.dev*
 *.BQTLOCK
 READ_ME-NOW_2526968.txt
 *.cowa
