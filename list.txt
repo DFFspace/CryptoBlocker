@@ -1,3 +1,10 @@
+*.level
+*.restoremydata*
+*.solara
+*.BL@CKLOCKED
+R3ADM3.txt
+*.jackpot*
+*.cybertron*
 {*}.nobackups
 *.bitrix
 {*}.GAGAKICK
