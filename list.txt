@@ -1,3 +1,6 @@
+*.traders
+*.cyberhazard
+HOW_TO_GET_DATA_BACK.html
 *.level
 *.restoremydata*
 *.solara
