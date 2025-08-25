@@ -1,3 +1,6 @@
+*.RDAT
+DAT_INFO.txt
+{*}.lockbeast
 *.traders
 *.cyberhazard
 HOW_TO_GET_DATA_BACK.html
