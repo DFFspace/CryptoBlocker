@@ -1,3 +1,8 @@
+*.solutionwehave*
+{*}.killback
+*.Charon
+How To Restore Your Files.txt
+{*}.NeZha
 *.RDAT
 DAT_INFO.txt
 {*}.lockbeast
