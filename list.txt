@@ -1,3 +1,9 @@
+*.obscura
+README-OBSCURA.txt
+{*}.bruk
+*.EXTEN
+*.taro
+HOW_TO_DECRYPT!!!.mht
 *.solutionwehave*
 {*}.killback
 *.Charon
