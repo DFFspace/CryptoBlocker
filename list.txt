@@ -1,3 +1,5 @@
+*.Bitco1n
+*.theft
 *.obscura
 README-OBSCURA.txt
 {*}.bruk
