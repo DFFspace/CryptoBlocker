@@ -1,3 +1,8 @@
+README_Obscura.txt
+*.hype
+hypeRansomeware.txt
+*.HIVELOCKED
+HiveWare-ReadMe.txt
 *.Bitco1n
 *.theft
 *.obscura
