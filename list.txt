@@ -1,3 +1,14 @@
+Fast-Instructions.txt
+*.prey*
+*.fbin
+c0ntact.txt
+*.befirst*
+ReadMeForDecrypt.txt
+*.FIND*
+*.jokdach
+!!!READ_ME!!!.txt
+*.sns*
+readme-warning.txt
 README_Obscura.txt
 *.hype
 hypeRansomeware.txt
