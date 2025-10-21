@@ -1,3 +1,8 @@
+*.#~~~
+READ_ME_NOW.txt
+*.stolen*
+*.monkey
+How_to_recover_your_files.txt
 Fast-Instructions.txt
 *.prey*
 *.fbin
