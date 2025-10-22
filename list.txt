@@ -1,3 +1,5 @@
+*.trap*
+READ_NOTE.html
 *.#~~~
 READ_ME_NOW.txt
 *.stolen*
