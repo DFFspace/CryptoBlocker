@@ -1,3 +1,10 @@
+*.ransomexx
+*.egregor
+*.hellokitty
+*.deimos
+*.notpetya
+*.nopetya
+*.avaddon
 *.trap*
 READ_NOTE.html
 *.#~~~
