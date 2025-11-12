@@ -1,3 +1,5 @@
+*.bactor
+#HowToRecover.txt
 *.BAGAJAI
 read_to_decrypt_files.html
 README-NOBODY.txt
