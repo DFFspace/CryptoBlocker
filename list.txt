@@ -1,3 +1,8 @@
+*.hels
+hels.readme.txt
+*.rmg
+*.zeo*
+READ_ME_NOW_ZAROK.txt
 *.bactor
 #HowToRecover.txt
 *.BAGAJAI
