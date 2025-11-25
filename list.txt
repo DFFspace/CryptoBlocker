@@ -1,3 +1,5 @@
+*.f*ckfbi
+READ_ME_FBI.txt
 *.hels
 hels.readme.txt
 *.rmg
