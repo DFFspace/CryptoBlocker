@@ -1,3 +1,5 @@
+*.EMPEROR
+*.Kron*
 *.hyfencb
 WHAT_HAPPEN_OF_MYFILE.html
 *.{*}.sysdoz
