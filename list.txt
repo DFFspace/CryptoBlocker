@@ -1,3 +1,9 @@
+*.NOCT
+*.{*}.Cooseagroup
+*.cod
+*.{*}.cracker
+*.NotHr
+NotHr-Attention.txt
 *.EMPEROR
 *.Kron*
 *.hyfencb
