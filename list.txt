@@ -1,3 +1,10 @@
+*.shrt
+shrt.readme.txt
+*.frenesis
+!!!_READ_THIS_!!!.txt
+XEX_README.txt
+*.devman*
+!!!README!!!.txt
 *.NOCT
 *.{*}.Cooseagroup
 *.cod
