@@ -1,3 +1,4 @@
+*.pryct
 *.shrt
 shrt.readme.txt
 *.frenesis
