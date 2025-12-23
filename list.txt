@@ -1,3 +1,4 @@
+*.ripper*
 *.35RUT
 !HOW TO RESTORE!.txt
 !README!.txt
