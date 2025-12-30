@@ -1,3 +1,5 @@
+#Read-for-recover.txt
+*.asyl
 *.ripper*
 *.35RUT
 !HOW TO RESTORE!.txt
