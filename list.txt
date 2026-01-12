@@ -1,3 +1,6 @@
+*.clear
+CLEARWATER_README.txt
+CyberEvent-ReadMe.txt
 #Read-for-recover.txt
 *.asyl
 *.ripper*
