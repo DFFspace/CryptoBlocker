@@ -1,3 +1,11 @@
+*.sicarii
+*.EMAIL=[mrunlock494@gmail.com]ID=[*].flash
+flashRansmoware.txt
+flashRansomware.txt
+READ_ME_TO_RECOVER_FILES!!!.txt
+*.tgbg
+*.purple
+*.milkyway
 *.happy*
 *.redgov
 !!!_DECRYPT_INFO_!!!.txt
