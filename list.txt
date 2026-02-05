@@ -1,3 +1,9 @@
+*.daibang
+*.cdd
+*.ransoomed
+*.icanfix
+*.Venere*
+UFFIZI_README.html
 *.sicarii
 *.EMAIL=[mrunlock494@gmail.com]ID=[*].flash
 flashRansmoware.txt
