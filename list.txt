@@ -1,3 +1,6 @@
+*.open
+READ-ME.txt
+*.ndm*
 *.daibang
 *.cdd
 *.ransoomed
