@@ -1,3 +1,7 @@
+*.MackDev
+MackDEV_README.txt
+*.IdontCareLOck
+IdontCareLOck.txt
 *.open
 READ-ME.txt
 *.ndm*
