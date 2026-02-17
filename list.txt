@@ -1,3 +1,7 @@
+*.ZETARINK*
+ZETARINK[*]-HOW-TO-DECRYPT.txt
+*.chip*
+*.end*
 *.MackDev
 MackDEV_README.txt
 *.IdontCareLOck
