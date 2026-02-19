@@ -1,3 +1,4 @@
+*.strike*
 *.BuP!w*
 BuP1wDecryptor@.txt
 *.ZETARINK*
