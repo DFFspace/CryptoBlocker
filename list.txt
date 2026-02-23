@@ -1,3 +1,4 @@
+*-id-[*][cortizol@atomicmail.io].Cortizol
 *.strike*
 *.BuP!w*
 BuP1wDecryptor@.txt
