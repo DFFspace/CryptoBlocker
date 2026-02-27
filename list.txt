@@ -1,3 +1,4 @@
+*.run*
 *-id-[*][cortizol@atomicmail.io].Cortizol
 *.strike*
 *.BuP!w*
