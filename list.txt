@@ -1,3 +1,7 @@
+*.witch
+*.osa
+*.lsd
+LSD_README.txt
 *.run*
 *-id-[*][cortizol@atomicmail.io].Cortizol
 *.strike*
