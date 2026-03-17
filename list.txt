@@ -1,3 +1,10 @@
+*.RedStar
+*.[brunobiden76@gmail.com].bricks
+*.zollo*
+*.raptum*
+RECOVER_DATA.html
+*.eimmigration
+WHATS_HAPPEND.txt
 *.witch
 *.osa
 *.lsd
