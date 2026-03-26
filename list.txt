@@ -1,3 +1,6 @@
+*.pclock*
+RECOVERY_ID.txt
+*.uragan
 *.RedStar
 *.[brunobiden76@gmail.com].bricks
 *.zollo*
