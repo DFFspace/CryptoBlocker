@@ -1,3 +1,11 @@
+*.torbrowsertor
+READ ME PLEASE.txt
+README PLEASE.txt
+*.BASANAI
+*.exitium
+*.vect*
+!!!READ_ME!!!.txt
+*.bear*
 *.pclock*
 RECOVERY_ID.txt
 *.uragan
