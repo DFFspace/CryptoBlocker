@@ -1,3 +1,6 @@
+*.net6
+Recovery_Instructions.html
+*.cooked
 *.TENGU
 _README_TENGU.txt
 *.UNC
