@@ -1,3 +1,9 @@
+*.lalia
+*.BAVACAI
+*.BARADAI
+*.rex*
+RANSOM_NOTE.html
+*.dominus*
 *.net6
 Recovery_Instructions.html
 *.cooked
