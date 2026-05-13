@@ -1,3 +1,22 @@
+readme_locker.txt
+*.esVnyj
+*.ZWIAAW
+sicarii-wallpaper.bmp
+README_SICARII_LOCKED.txt
+!!!READ_ME_TO_RECOVER_FILES!!!.txt
+embedded_wallpaper.png
+*.0apt
+README0apt.txt
+___RestoreYourFiles___.txt
+YOU ARE UNDER ATTACK!.html
+README-GENTLEMEN.txt
+README_VECT.html
+VECT_RECOVERY_GUIDE.txt 
+dvm3_wall.bmp
+KILLADA_README.txt
+*.vile
+VILE_README.txt
+!!!README!!!DO_NOT_DELETE.txt
 *.lalia
 *.BAVACAI
 *.BARADAI
