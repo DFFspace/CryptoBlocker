@@ -1,3 +1,9 @@
+*.crypt_lock
+*.lqtoreq
+README_LQTOREG.txt
+b5yogiiy3c.dll
+*.[*].God*
+README.TXT
 readme_locker.txt
 *.esVnyj
 *.ZWIAAW
