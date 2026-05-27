@@ -1,3 +1,4 @@
+*.gines
 *.crypt_lock
 *.lqtoreq
 README_LQTOREG.txt
