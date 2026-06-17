@@ -1,3 +1,6 @@
+*.EMAIL=[owndecrypt@gmail.com]ID=[*].Qv
+Qv Ransomware.txt
+README-victim's ID.txt
 *.gines
 *.crypt_lock
 *.lqtoreq
