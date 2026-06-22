@@ -1,3 +1,5 @@
+*.friends*
+*.hommy
 *.EMAIL=[owndecrypt@gmail.com]ID=[*].Qv
 Qv Ransomware.txt
 README-victim's ID.txt
