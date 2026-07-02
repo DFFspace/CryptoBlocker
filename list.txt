@@ -1,3 +1,5 @@
+*.doom*
+README_DECRYPT.txt
 *.prinzeugen
 *.friends*
 *.hommy
