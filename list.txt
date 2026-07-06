@@ -1,3 +1,4 @@
+*.developer*
 *.doom*
 README_DECRYPT.txt
 *.prinzeugen
