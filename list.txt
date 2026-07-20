@@ -1,3 +1,19 @@
+How to Restore My Files.html
+Contact-Note.txt
+*.Sezar*
+*.Sezar7
+*.doomag
+*.SquadLocker
+SquadLocker_ReadMe.txt
+RECOVERY_SECTION.log
+!.txt
+Decryptyourfilesnow.txt
+*.bl4ck
+BL4CK_SP1D3R_README.txt
+*.jeckel-lock
+*.orexin
+HOW_TO_RECOVER.txt
+*.kora
 *.developer*
 *.doom*
 README_DECRYPT.txt
