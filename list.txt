@@ -1,3 +1,5 @@
+*.blacknet
+READ_ME_BLACKNET.txt
 How to Restore My Files.html
 Contact-Note.txt
 *.Sezar*
