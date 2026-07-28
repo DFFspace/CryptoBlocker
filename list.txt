@@ -1,3 +1,10 @@
+*.kansas*
+KANSASGROUP.txt
+*.EMAIL=[owndecrypt@gmail.com]ID=[*].own
+own Ransomware.txt
+*.interserver*
+*.fadeSEC
+*.BLWZ
 *.blacknet
 READ_ME_BLACKNET.txt
 How to Restore My Files.html
