@@ -1,3 +1,10 @@
+*helprans.com*
+*.vitek
+*.Flock
+*.montage*
+*.umbra
+README_[*].txt
+*.kreepr
 *.kansas*
 KANSASGROUP.txt
 *.EMAIL=[owndecrypt@gmail.com]ID=[*].own
