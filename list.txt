@@ -1,3 +1,7 @@
+*.KIMO
+*.{*}.karrytech
+*.betelgeuse*
+*.majin
 *helprans.com*
 *.vitek
 *.Flock
