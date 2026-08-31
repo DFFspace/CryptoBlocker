@@ -1,3 +1,5 @@
+*.[JackLeomp@gmail.com][*].grandeur
+Decrypt-info.txt
 *.KIMO
 *.{*}.karrytech
 *.betelgeuse*
