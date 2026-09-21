@@ -1,3 +1,14 @@
+*.[*].[*].RIED
+*.altair*
+*.Sword
+SwordReadme!!![*].txt
+*.[vricpe@aol.com].vricpe
+RecoveryHelp.txt
+*.facemelter
+README_DONOTREMOVE.txt
+*.regulus*
+*.qtox
+*.InWatch
 !!README_HMDL!!.txt
 *.aldet
 CONTACT US.TXT
