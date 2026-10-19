@@ -1,3 +1,15 @@
+*.citrus
+info_note.txt
+*.hexsomeware
+HEXSOMEWARE_READ_ME.txt
+*.has
+*.bytebane
+*.calipso
+*.zynx
+*.flyware
+RECOVERY.TXT
+*.dragonforce
+*.qilin
 *.[*].[*].RIED
 *.altair*
 *.Sword
