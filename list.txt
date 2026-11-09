@@ -1,3 +1,9 @@
+*.fable
+*.obsoft
+*.ofx
+README_ONECRYPTOR.txt
+*.coffin
+how_to_recover.coffin.txt
 *.citrus
 info_note.txt
 *.hexsomeware
