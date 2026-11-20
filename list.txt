@@ -1,3 +1,12 @@
+*.AOQIN
+HELP-SUPPORT.txt
+*.black_lotus
+how2recover.txt
+*.fraud
+READ_ME_FRAUD.txt
+*.ULTIMATE
+README_DECRYPT_[*].txt
+README_DECRYPT_[*].html
 *.fable
 *.obsoft
 *.ofx
